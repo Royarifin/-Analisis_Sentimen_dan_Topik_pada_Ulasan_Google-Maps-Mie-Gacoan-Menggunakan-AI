@@ -21,7 +21,7 @@ Merumuskan rekomendasi strategis yang actionable untuk meningkatkan kepuasan pel
 2. Dataset & Tools
 Sumber Data: 100 Ulasan Publik Pelanggan Mie Gacoan Lampung
 
-Link Dataset Mentah: ulasan_gacoan_lampung.csv
+Link Dataset Mentah: https://raw.githubusercontent.com/Royarifin/Analisis_Sentimen_dan_Topik_pada_Ulasan_Google-Maps-Mie-Gacoan-Menggunakan-AI/refs/heads/main/ulasan_gacoan_lampung.csv
 
 Perangkat & Teknologi:
 
@@ -29,8 +29,7 @@ Bahasa & Library: Python (Pandas, Matplotlib, Seaborn, TQDM)
 
 Lingkungan Kerja: Google Colab
 
-Model AI: ibm/granite-13b-instruct-v2
-
+Model AI: http://ibm-granite/granite-3.3-8b-instruct
 Framework & API: LangChain & Replicate API
 
 3. Analysis Process: Sebuah Pendekatan Kaizen
@@ -44,7 +43,7 @@ Solusi: Sebuah skrip pembersihan otomatis diimplementasikan untuk membuang ulasa
 
 Otomatisasi Analisis (Batch Processing):
 
-Analisis dilakukan secara batch (kelompok kecil @ 5 ulasan) untuk efisiensi dan stabilitas, dengan tqdm untuk memvisualisasikan progres.
+Analisis dilakukan secara batch (kelompok kecil  5 ulasan) untuk efisiensi dan stabilitas, dengan tqdm untuk memvisualisasikan progres.
 
 Prompt Engineering (Klasifikasi Multi-Dimensi):
 
