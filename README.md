@@ -1,5 +1,5 @@
 # Analisis_Sentimen_dan_Topik_pada_Ulasan_Google-Maps-Mie-Gacoan-Menggunakan-AI
-Mengungkap Suara Pelanggan: Analisis Sentimen dan Rekomendasi Strategis untuk Mie Gacoan Lampung Menggunakan AI
+Analisis Sentimen dan Rekomendasi Strategis untuk Mie Gacoan Lampung Menggunakan AI
 Sebuah Proyek Capstone oleh: [Nama Lengkap Anda]
 
 1. Project Overview
